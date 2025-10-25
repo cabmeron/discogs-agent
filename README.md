@@ -1,6 +1,6 @@
 # 🎵 Discogs Marketplace Assistant
 
-An AI-powered agent built with Google's Agent Development Kit (ADK) that helps you search the Discogs database, get marketplace pricing information, and analyze music releases. Features both a command-line interface and a modern web-based chat UI.
+An AI-powered agent built with Google's Agent Development Kit (ADK) that helps you search the Discogs database, get marketplace pricing information, and analyze music releases. Features a command-line interface
 
 ![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -49,6 +49,25 @@ An AI-powered agent built with Google's Agent Development Kit (ADK) that helps y
   adk run discogs-agent
   ```
 
-* [user]: what albums has Kanye West made?
-* [user]: what's the cheapest Nirvana album on Discogs?
-* [user]: search for Pink Floyd Dark Side of the Moon
+User: What's the cheapest Nirvana album on Discogs?
+
+Agent: I searched for Nirvana albums and found several options with marketplace pricing:
+
+1. **Nevermind** (1991)
+   - Lowest Price: $12.99 USD
+   - Active Listings: 2,847
+   - Format: Various (CD, Vinyl, Cassette)
+
+2. **Bleach** (1989)
+   - Lowest Price: $15.50 USD
+   - Active Listings: 1,234
+   - Format: Various
+
+3. **In Utero** (1993)
+   - Lowest Price: $14.25 USD
+   - Active Listings: 1,892
+   - Format: Various
+
+The cheapest option is currently a copy of Nevermind at $12.99 USD. Note that prices 
+vary based on format, condition, and edition. Would you like more details about a 
+specific release?
