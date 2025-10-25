@@ -2,6 +2,9 @@
 
 An AI-powered agent built with Google's Agent Development Kit (ADK) that helps you search the Discogs database, get marketplace pricing information, and analyze music releases. Features a command-line interface
 
+--------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------
+
 User: What's the cheapest Nirvana album on Discogs?
 
 Agent: I searched for Nirvana albums and found several options with marketplace pricing:
@@ -24,6 +27,9 @@ Agent: I searched for Nirvana albums and found several options with marketplace 
 The cheapest option is currently a copy of Nevermind at $12.99 USD. Note that prices 
 vary based on format, condition, and edition. Would you like more details about a 
 specific release?
+
+--------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------
 
 ![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
