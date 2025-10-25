@@ -1,0 +1,7 @@
+httpx
+discogs-client
+python3-discogs-client
+google-genai
+pytesseract
+Pillow>=8.0.0
+numpy<2
