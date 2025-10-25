@@ -35,13 +35,6 @@ specific release?
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Gemini](https://img.shields.io/badge/Gemini-1.5%20Flash-orange.svg)
 
-## ✨ Features
-
-- **🔍 Search Discogs Database**: Find albums, releases, and artists across the entire Discogs catalog
-- **💰 Marketplace Pricing**: Get real-time lowest prices and listing counts from Discogs marketplace
-- **📊 Release Details**: Retrieve comprehensive information including tracklists, formats, and metadata
-- **🤖 AI-Powered Chat**: Natural language interface powered by Google Gemini
-
 ## 🚀 Quick Start
 
 ### Prerequisites
