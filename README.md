@@ -42,8 +42,11 @@ An AI-powered agent built with Google's Agent Development Kit (ADK) that helps y
    GOOGLE_API_KEY=your_google_api_key_here
    DISCOGS_API_KEY=your_discogs_token_here
    ```
-
-3. **Run Agent**
+3. **Install Dependencies**
+   ```bash
+   pip install rquirements.txt
+   ```
+4. **Run Agent**
 
   ```bash
   adk run discogs-agent
