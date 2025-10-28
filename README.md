@@ -1,6 +1,6 @@
-# 🎵 Discogs Marketplace Assistant
+# Discogs Marketplace Assistant
 
-An AI-powered agent built with Google's Agent Development Kit (ADK) that helps you search the Discogs database, get marketplace pricing information, and analyze music releases. Features a command-line interface
+Agent built with Google's Agent Development Kit (ADK) for searching the Discogs API
 
 --------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------
@@ -31,11 +31,6 @@ specific release?
 --------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------
 
-![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Gemini](https://img.shields.io/badge/Gemini-1.5%20Flash-orange.svg)
-
-## 🚀 Quick Start
 
 ### Prerequisites
 
