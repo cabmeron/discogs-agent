@@ -29,12 +29,6 @@ specific release?
 
 --------------------------------------------------------------------------------------------------------------
 
-### Prerequisites
-
-- Python 3.11 or higher
-- Google AI API key ([Get one here](https://aistudio.google.com/apikey))
-- Discogs API token ([Get one here](https://www.discogs.com/settings/developers))
-
 ### Installation
 
 1. **Clone the repository**
